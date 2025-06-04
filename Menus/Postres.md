@@ -10,3 +10,8 @@ En gastronomía, los postres son los platos dulces o salados que se sirven al fi
 Bocadillo de Guayaba: Un dulce a base de guayaba y azúcar, muy común en el país. 
 Arequipe: Un dulce de leche, muy popular en Colombia y utilizado en muchos postres. 
 Merengón: Un postre a base de merengue, relleno de frutas y crema, muy refrescante y popular en las carreteras. 
+
+
+## Bebidas Recomendadas
+
+Leche
