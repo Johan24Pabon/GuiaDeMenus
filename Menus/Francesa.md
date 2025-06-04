@@ -12,3 +12,6 @@ La gastronomía francesa cuenta con una amplia variedad de platos principales, m
 
 ## Bebidas Recomendadas 
 En la gastronomía francesa, las bebidas recomendadas más comunes son el vino, el agua (con o sin gas), el café, y algunas opciones alcohólicas como la cerveza y licores como la absenta o el calvados. La elección de la bebida depende del momento de la comida, la región, y las preferencias personales. 
+
+## Consejos 
+Para disfrutar la gastronomía francesa, considera estos consejos: elige restaurantes que se especialicen en cocina regional, degusta los vinos locales que complementan los platos, y no dudes en pedir recomendaciones a los locales y a los chefs. 
