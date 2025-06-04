@@ -23,3 +23,7 @@ Las bebidas italianas suelen estar muy vinculadas a la gastronomía y al estilo 
 ** Café: El café es la bebida por excelencia de los italianos, consumido en diversas formas como espresso, cappuccino, macchiato, etc. 
 ** Licores y Cócteles: Italia es conocida por una variedad de licores, como el limoncello, el amaretto y el grappa, que se disfrutan como digestivos o en cócteles. Los cócteles también son populares, destacando el Aperol Spritz y el Negroni. 
 Otras bebidas: Sanpellegrino Aranciata.
+
+## Consejos y sugerencias 
+
+Para disfrutar plenamente de la gastronomía italiana, considera estos consejos: elige ingredientes frescos y de temporada, cocina la pasta al dente, utiliza hierbas frescas como albahaca y orégano, y no tengas miedo de experimentar con las recetas locales. Evita añadir queso a los mariscos, pide modificaciones en los platos y no te apresures a comer. 
