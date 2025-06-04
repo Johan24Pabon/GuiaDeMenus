@@ -7,3 +7,6 @@ La gastronomía china es una tradición culinaria rica y diversa, caracterizada 
 
 ## Platos Principales
 Los platos principales de la gastronomía china son muy variados, pero algunos de los más conocidos y populares son el pato Pekín, el arroz frito, el pollo Kung Pao, los dumplings (jiaozi), el Dim Sum, el Chow Mein, y el Hot Pot. 
+
+## Bebidas Recomendadas
+Para acompañar la gastronomía china, se recomiendan principalmente té, sake, cervezas ligeras o cócteles tiki. El té, especialmente el té rojo o té verde, es una opción tradicional y versátil. El sake, un vino de arroz japonés, puede ser una elección interesante para maridar con platos más delicados. Las cervezas ligeras, como la Kirin Ichiban, pueden equilibrar sabores picantes. Los cócteles tiki, con su mezcla de cítricos, especias y dulzor, pueden complementar la intensidad de los sabores chinos. 
