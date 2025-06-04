@@ -14,3 +14,6 @@ Cerdo y Cordero.
 
 ## Bebidas Recomendadas 
 Cooca Coola
+
+## Consejos
+Para una mejor experiencia gastronómica con carne, se recomienda elegir cortes de calidad, cocinar adecuadamente para obtener un resultado jugoso y tierno, y cuidar el manejo para prevenir riesgos de salud. Además, se puede mejorar el sabor con técnicas de marinado y ahumado, y disfrutar de la carne de forma saludable, considerando el consumo moderado y la preparación sin grasas adicionales. 
