@@ -11,3 +11,6 @@ La gastronomía mediterránea se caracteriza por platos variados y saludables, d
 
 ## Bebidas Recomendadas 
 Las bebidas más recomendadas en la gastronomía mediterránea son el agua, el vino tinto, el vino rosado, el té, el café, los zumos naturales, y algunos cócteles como el Negroni o la Brisa Griega. También se valoran las bebidas cítricas y las tradicionales como el Kykeon. 
+
+## Consejos 
+Para seguir los consejos de la gastronomía mediterránea, enfócate en alimentos frescos y de temporada, especialmente frutas, verduras, granos integrales y legumbres. El aceite de oliva es la base para cocinar y aderezar. Incorpora pescado, especialmente pescado graso, y limita el consumo de carne roja y procesada. Además, utiliza hierbas y especias para saborizar tus platos y disfruta de un postre ocasional a base de frutas frescas. 
