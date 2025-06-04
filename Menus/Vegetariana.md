@@ -10,3 +10,6 @@ Los platos para vegetarianos son aquellos que no incluyen carnes ni pescados, pe
 
 ## Bebidas Recomendadas 
 En la gastronomía vegetariana, se recomienda una amplia variedad de bebidas, desde refrescos naturales hasta alternativas a la leche. Entre las opciones más populares se encuentran bebidas vegetales como la de almendra, avena, soja y coco. También son populares los batidos de frutas, como el de piña colada o el de fresa con chía. Las infusiones de hierbas como la lavanda, el té verde o la manzanilla también son una excelente opción para relajar y disfrutar. 
+
+## Consejos
+Para una gastronomía vegetariana variada y nutritiva, se recomienda consumir una amplia gama de alimentos vegetales, incluyendo frutas, verduras, granos, legumbres, frutos secos y semillas. También se pueden incluir productos lácteos y huevos, según el tipo de dieta vegetariana que se siga. 
