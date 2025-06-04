@@ -15,3 +15,7 @@ Merengón: Un postre a base de merengue, relleno de frutas y crema, muy refresca
 ## Bebidas Recomendadas
 
 Leche
+
+## Consejos 
+
+ Para mejorar los postres, es crucial conocer tus ingredientes, medir con precisión, seguir las recetas al pie de la letra y cuidar la temperatura del horno. El uso de ingredientes de calidad frescos y a temperatura ambiente, así como la planificación y organización de tu espacio de trabajo, son fundamentales para obtener resultados óptimos. Además, la creatividad en la combinación de sabores y texturas, junto con el aprendizaje continuo, te permitirán perfeccionar tus habilidades. 
