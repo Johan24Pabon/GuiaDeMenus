@@ -7,3 +7,6 @@ La gastronomía india se caracteriza por su rica diversidad de sabores, aromas y
 
 ## Platos Principales
 Los platos principales de la gastronomía india incluyen una gran variedad de guisos, arroces, panes y aperitivos. 
+
+## Bebidas Recomendadas
+Las bebidas más recomendadas de la gastronomía india incluyen el chai (té especiado), el lassi (batido de yogur), el thandai (bebida refrescante con especias), el nimbu pani (limonada india) y el sharbat (bebida de frutas con agua de rosas). 
