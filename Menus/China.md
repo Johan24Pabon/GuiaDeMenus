@@ -10,3 +10,6 @@ Los platos principales de la gastronomía china son muy variados, pero algunos d
 
 ## Bebidas Recomendadas
 Para acompañar la gastronomía china, se recomiendan principalmente té, sake, cervezas ligeras o cócteles tiki. El té, especialmente el té rojo o té verde, es una opción tradicional y versátil. El sake, un vino de arroz japonés, puede ser una elección interesante para maridar con platos más delicados. Las cervezas ligeras, como la Kirin Ichiban, pueden equilibrar sabores picantes. Los cócteles tiki, con su mezcla de cítricos, especias y dulzor, pueden complementar la intensidad de los sabores chinos. 
+
+## Consejos
+Para disfrutar la gastronomía china, se recomienda prestar atención a la etiqueta en la mesa, usar palillos correctamente, y probar diferentes platos regionales. También es importante tener en cuenta los métodos de cocción y la combinación de sabores característicos de la cocina china. 
