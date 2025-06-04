@@ -10,3 +10,7 @@ Los platos principales de la gastronomía india incluyen una gran variedad de gu
 
 ## Bebidas Recomendadas
 Las bebidas más recomendadas de la gastronomía india incluyen el chai (té especiado), el lassi (batido de yogur), el thandai (bebida refrescante con especias), el nimbu pani (limonada india) y el sharbat (bebida de frutas con agua de rosas). 
+
+## Consejos
+
+Para disfrutar la gastronomía india, considera probar diversos platos, experimentar con ingredientes y especias locales, y no tener miedo a probar nuevas combinaciones de sabores. Aquí hay algunos consejos generales:
